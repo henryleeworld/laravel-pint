@@ -24,5 +24,5 @@ $ ./vendor/bin/pint
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/OcrwVQ8.png)
+![](https://i.imgur.com/uo2fF2n.png)
 > 修正程式碼語法，讓其符合標準，不用自己手動修復
