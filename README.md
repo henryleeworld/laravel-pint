@@ -24,8 +24,8 @@ $ ./vendor/bin/pint {--parallel}
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/3AwgAGw.png)
+![](https://i.imgur.com/EKOWnFE.png)
 > 修正程式碼語法，讓其符合標準，不用自己手動修復
 
-![](https://i.imgur.com/yAlpWtX.png)
+![](https://i.imgur.com/1vSTZkv.png)
 > 平行修正程式碼語法，大幅縮短執行所有修正所需的時間
