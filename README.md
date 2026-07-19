@@ -1,4 +1,4 @@
-# Laravel 12 品脫
+# Laravel 13 品脫
 
 引入 laravel 的 pint 套件來擴增專為極簡主義者設計的 PHP 程式碼風格修正器，理想狀況下，應該遵循一個已知的標準來撰寫 PHP 程式碼。可能是 PSR 的組合或者是 PEAR 或 Zend 程式碼標準的其中一個。這代表其他開發者能夠方便的閱讀與使用你的程式碼，且使用這些套件的應用程式能夠平順地與許多第三方套件一起使用。
 
@@ -24,8 +24,8 @@ $ ./vendor/bin/pint {--parallel}
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/EKOWnFE.png)
+![](https://i.imgur.com/et4U3gB.png)
 > 修正程式碼語法，讓其符合標準，不用自己手動修復
 
-![](https://i.imgur.com/1vSTZkv.png)
+![](https://i.imgur.com/VKRBPCv.png)
 > 平行修正程式碼語法，大幅縮短執行所有修正所需的時間
